@@ -1,1 +1,5 @@
 mi primera prueba en git
+dos tres
+cuatro
+cinco
+seis
